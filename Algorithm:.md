@@ -13,7 +13,7 @@ Big O Notation:
 
 Chapter 2: Sort
 
-Memory: 
+Memory: refers to location of short term data
 
 Arrays:
 - Elements are stored next to eachother in memory (contigously)
